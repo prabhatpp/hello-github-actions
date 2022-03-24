@@ -10,4 +10,4 @@ steps:
   -uses: action/checkout@v1
    uses: ./action-a
    with:
-    My_Name: "Prabhat"
+    My_Name: "Prabhat kumar"
